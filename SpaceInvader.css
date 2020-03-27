@@ -1,0 +1,37 @@
+html,
+body {
+    margin: 0px;
+    height: 100%;
+    background-image: url(https://i.pinimg.com/originals/1f/53/a1/1f53a1eb5faa05f8579b45e74639a293.jpg);
+}
+
+#target-b {
+    height: 10%;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#rakett {
+    height: 90%;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+
+#raket {
+    position: relative;
+    width: 100px;
+    height: 126px;
+}
+
+#explosie {
+    display: none;
+    width: 100px;
+    height: 126px;
+}
+
+.Alienufo {
+    width: 100px;
+    height: 75px;
+}
